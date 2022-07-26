@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub
-### Repositório criado para desafio do Projeto
+### Repositório criado para o desafio do Projeto
 
 
 ## Links úteis
